@@ -1,4 +1,4 @@
-# 
+# Bitwarden for macOS custom Utility: firewall-protection & password-generator offers the most advanced Bitwarden for macOS utility, with firewall-protection and password-generator.
 
 
 
